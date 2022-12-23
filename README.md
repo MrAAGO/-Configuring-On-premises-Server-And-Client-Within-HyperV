@@ -1,4 +1,4 @@
-# -Configuring-On-premises-Window-Server-2019-And-Client-Window-PC-And-Mac
+# -Configuring On premises Window Server 2019 And Client Window PC And Mac
 ![Screenshot 2022-12-22 161053](https://user-images.githubusercontent.com/86381942/209246133-92874d7f-1b3f-4da8-86f4-f00d5d658565.png)
 
 
