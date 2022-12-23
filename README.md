@@ -4,7 +4,7 @@
 
 <h4 align="center"> <a href="https://medium.com/@Beepin/how-to-install-window-server-2019-and-configure-domain-controller-d1dab823c203">Installing Window Server 2019 And Configuring Domain Controller. </a> </h4>
 
-<h4 align="center"> <a href="https://medium.com/@Beepin/configuring-dns-forwarder-in-windows-server-2019-fbe51ec316b1">Configuring DNS Forwarder in Windows Server 2019. </a> </h4>
+<h4 align="center"> <a href="https://github.com/MrAAGO/Configuring-DNS-Forwarder-in-Windows-Server-2019.">Configuring DNS Forwarder in Windows Server 2019. </a> </h4>
 
 <h4 align="center"> <a href="https://medium.com/@Beepin/install-and-configure-dhcp-server-in-windows-server-2019-f84ae34f39ba">Install and Configure DHCP Server in Windows Server 2019 </a> </h4>
 
