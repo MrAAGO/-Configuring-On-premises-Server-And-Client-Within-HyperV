@@ -6,6 +6,6 @@
 
 <h4 align="center"> <a href="https://medium.com/@Beepin/configuring-dns-forwarder-in-windows-server-2019-fbe51ec316b1">Configuring DNS Forwarder in Windows Server 2019. </a> </h4>
 
-<h4 align="center"> <a href="https://medium.com/@Beepin/install-and-configure-an-ssl-certificate-for-exchange-2019-141f976dfde0">Install and Configure an SSL certificate for Exchange 2019. </a> </h4>
-
 <h4 align="center"> <a href="https://medium.com/@Beepin/install-and-configure-dhcp-server-in-windows-server-2019-f84ae34f39ba">Install and Configure DHCP Server in Windows Server 2019 </a> </h4>
+
+<h4 align="center"> <a href="https://medium.com/@Beepin/install-and-configure-an-ssl-certificate-for-exchange-2019-141f976dfde0">Install and Configure an SSL certificate for Exchange 2019. </a> </h4>
