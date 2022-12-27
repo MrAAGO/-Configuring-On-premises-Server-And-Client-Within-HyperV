@@ -12,7 +12,7 @@
 
 <h4 align="center"> <a href="https://github.com/MrAAGO/Exchange-Server-Powerhsell-Commands">Exchange-Server-Powerhsell-Commands. </a> </h4>
 
-<h4 align="center"> <a href="https://github.com/MrAAGO/Join-PC-To-Domain/blob/main/README.md">Join-PC-To-Domain. </a> </h4>
+<h4 align="center"> <a href="https://github.com/MrAAGO/Domain-Controller-deployment/blob/main/Join-Client-PC-To-Domain">Join-PC-To-Domain. </a> </h4>
 
 <h4 align="center"> <a href="https://github.com/MrAAGO/Deploying-Wallpaper-Through-Group-Policy/blob/main/README.md">Deploying Wallpaper Through Group Policy. </a> </h4>
 
