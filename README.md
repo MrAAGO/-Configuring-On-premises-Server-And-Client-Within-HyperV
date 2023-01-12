@@ -19,6 +19,8 @@
 <li>Backup and Disaster Recovery: Windows Server can be configured to backup and recovery data, it also can be used as a disaster recovery solution.</li>
 
 <li>Cloud Services:</li>
+
+<h2><b> Our Project Diagram </h2></b>
   
 ![Screenshot 2022-12-22 161053](https://user-images.githubusercontent.com/86381942/209246133-92874d7f-1b3f-4da8-86f4-f00d5d658565.png)
 
