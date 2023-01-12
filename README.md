@@ -1,4 +1,25 @@
 # Configuring On premises Window Server 2019 And Client Window PC And Mac
+
+<b>Windows Server is a popular operating system from Microsoft that is designed for use in servers and other enterprise-level environments. It provides a wide range of features such as Active Directory, DNS, DHCP, IIS and other services.</b>
+
+<b>Windows Server can be used in a variety of roles, including:</b>
+
+<li>File and Print Server: Windows Server can be configured as a file and print server, allowing clients to access shared files and printers on the network.</i>
+
+<li>Remote Access Server: Windows Server can be configured as a remote access server, allowing users to connect to the network remotely using Remote Desktop Services (RDS) or Virtual Private Network (VPN) services.</i>
+
+<li>Database Server: Windows Server can be configured to run database software such as Microsoft SQL Server, providing a platform for enterprise-level databases.</i>
+
+<li>Web Server: Windows Server can be configured to run web server software such as IIS, providing a platform for hosting web applications and services.</i>
+
+<li>Hyper-V: Windows Server can be used as a hypervisor for virtualization, allowing for the creation and management of virtual machines.</li>
+
+<li>Domain Controller: Windows Server can be configured as a domain controller, providing centralized management of user accounts, permissions, and security policies.</li>
+
+<li>Backup and Disaster Recovery: Windows Server can be configured to backup and recovery data, it also can be used as a disaster recovery solution.</li>
+
+<li>Cloud Services:</li>
+  
 ![Screenshot 2022-12-22 161053](https://user-images.githubusercontent.com/86381942/209246133-92874d7f-1b3f-4da8-86f4-f00d5d658565.png)
 
 
